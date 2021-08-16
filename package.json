@@ -1,0 +1,24 @@
+{
+  "name": "dland-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrystalRoot/dland.git"
+  },
+  "author": "Crystal Root",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrystalRoot/dland/issues"
+  },
+  "homepage": "https://github.com/CrystalRoot/dland#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
